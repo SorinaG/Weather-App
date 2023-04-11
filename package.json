@@ -1,0 +1,17 @@
+{
+	"name": "weather-app",
+	"version": "1.0.0",
+	"description": "An example Weather App project",
+	"author": "Sorina",
+	"main": "weatherapp.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon"
+	},
+	"devDependencies": {
+		"nodemon": "^1.18.10"
+	},
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
